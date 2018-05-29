@@ -1,0 +1,19 @@
+{
+    "name": "otsaplin/logger",
+    "description": "Log in file.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Oleg Tsaplin",
+            "email": "otsaplin@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Otsaplin\\Logger\\": "src/"
+        }
+    },
+    "require": {}
+}
